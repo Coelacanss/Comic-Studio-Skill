@@ -1,0 +1,13 @@
+# Production runtime files (generated during use)
+comic-project/production/change-log.txt
+comic-project/production/session-log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
